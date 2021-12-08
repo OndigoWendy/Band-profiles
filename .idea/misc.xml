@@ -3,19 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/account.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/drawable-v24/black_background.xml" value="0.19537037037037036" />
+        <entry key="app/src/main/res/drawable-v24/email.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/drawable-v24/folder_plus.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/drawable-v24/gradient.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/drawable-v24/ic_close_black_24dp.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/drawable-v24/ic_dot_24dp.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.346875" />
         <entry key="app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.19537037037037036" />
+        <entry key="app/src/main/res/drawable-v24/pencil.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/about_us_pop_up.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_detailed.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fan_profile.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/activity_fans.xml" value="0.16770833333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2346014492753623" />
         <entry key="app/src/main/res/layout/activity_news.xml" value="0.2346014492753623" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="app/src/main/res/layout/items.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/user_profile_round_button.xml" value="0.17239583333333333" />
       </map>
     </option>
   </component>

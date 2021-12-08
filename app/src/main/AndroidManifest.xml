@@ -11,9 +11,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BandHeaven">
-        <activity android:name=".NewsActivity"
+        <activity
+            android:name=".FanProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FansActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NewsActivity"
             android:screenOrientation="locked"
-            android:windowSoftInputMode="stateHidden"/>
+            android:windowSoftInputMode="stateHidden" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -23,15 +30,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Detailed"
+        <activity
+            android:name=".Detailed"
             android:screenOrientation="locked"
-            android:windowSoftInputMode="stateHidden">
-
-        </activity>
-        <activity android:name=".SplashScreen"
-            android:screenOrientation="locked"
-            android:exported="true">
-        </activity>
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:screenOrientation="locked" />
     </application>
 
 </manifest>

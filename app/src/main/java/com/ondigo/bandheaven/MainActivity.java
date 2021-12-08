@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         // get the id of the CardView and attach an onClickListener to it
         findViewById(R.id.cvNews).setOnClickListener((View.OnClickListener) this);
+        findViewById(R.id.cvFans).setOnClickListener((View.OnClickListener) this);
     }
     @Override
     public void onClick(View view)
@@ -22,6 +23,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         {
             //Do something Like starting an activity
             Intent intent = new Intent(MainActivity.this, NewsActivity.class);
+            startActivity(intent);
+        }
+        if(view.getId() == R.id.cvFans)
+        {
+            //Do something Like starting an activity
+            Intent intent = new Intent(MainActivity.this, FanProfileActivity.class);
             startActivity(intent);
         }
     }
