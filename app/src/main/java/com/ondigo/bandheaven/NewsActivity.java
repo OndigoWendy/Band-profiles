@@ -15,6 +15,8 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.ondigo.bandheaven.Model.Articles;
 import com.ondigo.bandheaven.Model.Headlines;
+import com.ondigo.bandheaven.adapters.Adapter;
+import com.ondigo.bandheaven.network.ApiClient;
 
 import java.util.ArrayList;
 import java.util.List;
