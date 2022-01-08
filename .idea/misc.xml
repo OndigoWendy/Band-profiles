@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/drawable-v24/pencil.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/about_us_pop_up.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_concert.xml" value="0.16770833333333332" />
         <entry key="app/src/main/res/layout/activity_detailed.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_fan_profile.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/activity_fans.xml" value="0.16770833333333332" />

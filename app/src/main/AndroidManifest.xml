@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BandHeaven">
         <activity
+            android:name=".ConcertActivity"
+            android:exported="true" />
+        <activity
             android:name=".FanProfileActivity"
             android:exported="true" />
         <activity
