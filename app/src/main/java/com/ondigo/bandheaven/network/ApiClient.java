@@ -1,4 +1,4 @@
-package com.ondigo.bandheaven;
+package com.ondigo.bandheaven.network;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

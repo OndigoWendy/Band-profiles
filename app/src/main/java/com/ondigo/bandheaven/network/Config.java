@@ -1,4 +1,4 @@
-package com.ondigo.bandheaven;
+package com.ondigo.bandheaven.network;
 
 public interface Config {
     String api_url1 = "http://138.68.64.95:8080/api/user/";                                             // endpoint for API
