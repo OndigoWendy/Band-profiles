@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.18177083333333333" />
         <entry key="app/src/main/res/drawable-v24/account.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/drawable-v24/black_background.xml" value="0.19537037037037036" />
         <entry key="app/src/main/res/drawable-v24/email.xml" value="0.19270833333333334" />
