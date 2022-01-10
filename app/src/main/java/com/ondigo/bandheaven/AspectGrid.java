@@ -1,4 +1,4 @@
-package com.ondigo.bandheaven.Model;
+package com.ondigo.bandheaven;
 
 import androidx.appcompat.app.AppCompatActivity;
 
