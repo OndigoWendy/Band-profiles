@@ -19,6 +19,8 @@ public class AspectGrid extends ViewGroup {
     private int mVerticalSpacing = 0;
     private float mChildAspectRatio = 1.0f;
 
+
+
     public AspectGrid(Context context) {
         super(context);
     }
