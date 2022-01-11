@@ -6,50 +6,50 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
+
     <com.ondigo.bandheaven.AspectGrid
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:padding="5dp"
-        app:numColumns="3"
-        app:horizontalSpacing="5dp"
-        app:verticalSpacing="5dp"
         app:childAspectRatio="1.0"
-        >
+        app:horizontalSpacing="5dp"
+        app:numColumns="3"
+        app:verticalSpacing="5dp">
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ffcccc"
-            android:text="Item 1"
-            />
+            android:text="Item 1" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ccffcc"
-            android:text="Item 2"
-            />
+            android:text="Item 2" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ccccff"
-            android:text="Item 3"
-            />
+            android:text="Item 3" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ffffcc"
-            android:text="Item 4"
-            />
+            android:text="Item 4" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ffccff"
-            android:text="Item 5"
-            />
+            android:text="Item 5" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#ccffff"
-            android:text="Item 6"
-            />
+            android:text="Item 6" />
     </com.ondigo.bandheaven.AspectGrid>
 </LinearLayout>

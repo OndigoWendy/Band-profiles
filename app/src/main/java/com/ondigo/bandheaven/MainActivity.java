@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // get the id of the CardView and attach an onClickListener to it
         findViewById(R.id.cvNews).setOnClickListener((View.OnClickListener) this);
         findViewById(R.id.cvFans).setOnClickListener((View.OnClickListener) this);
+        findViewById(R.id.cvConcerts).setOnClickListener((View.OnClickListener) this);
     }
     @Override
     public void onClick(View view)
