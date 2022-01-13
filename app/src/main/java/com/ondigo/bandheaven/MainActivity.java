@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(view.getId() == R.id.cvConcerts)
         {
             //Do something Like starting an activity
-            Intent intent = new Intent(MainActivity.this, AspectGrid.class);
+            Intent intent = new Intent(MainActivity.this, FanProfileActivity.class);
             startActivity(intent);
         }
     }
